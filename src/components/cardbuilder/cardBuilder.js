@@ -8,7 +8,7 @@ import escapeHtml from 'escape-html';
 
 import cardBuilderUtils from './cardBuilderUtils';
 import browser from 'scripts/browser';
-import datetime from 'scripts/datetime';
+import datetime from 'utils/datetime';
 import dom from 'scripts/dom';
 import globalize from 'scripts/globalize';
 import { getBackdropShape, getPortraitShape, getSquareShape } from 'utils/card';

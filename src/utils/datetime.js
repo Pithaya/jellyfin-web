@@ -1,4 +1,4 @@
-import globalize from './globalize';
+import globalize from '../scripts/globalize';
 
 export const ticksPerHour = 36000000000;
 export const ticksPerMinute = 600000000;
@@ -323,4 +323,3 @@ export default {
     ticksPerMinute: ticksPerMinute,
     ticksPerSecond: ticksPerSecond
 };
-
